@@ -178,7 +178,7 @@
             buttonOpen.Name = "buttonOpen";
             buttonOpen.Size = new Size(102, 65);
             buttonOpen.TabIndex = 2;
-            toolTiphelp.SetToolTip(buttonOpen, "Открыть файл");
+            toolTiphelp.SetToolTip(buttonOpen, "Открыть файл (только в формате *csv)");
             buttonOpen.UseVisualStyleBackColor = false;
             buttonOpen.Click += buttonOpen_Click;
             // 

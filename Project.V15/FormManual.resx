@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="textBoxManual.Text" xml:space="preserve">
-    <value>1)Откройте необходимый документ, после чего вам будут доступны следующие функции:
+    <value>1)Откройте необходимый документ(только в формате *csv), после чего вам будут доступны следующие функции:
                1-Поиск в документе по ключевым словам
                2-Статистика данных документа
                2-Возможность редактирования документа путём добавления данных через поля ниже

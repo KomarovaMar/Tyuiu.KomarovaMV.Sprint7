@@ -55,6 +55,7 @@
             textBoxManual.Size = new Size(781, 357);
             textBoxManual.TabIndex = 0;
             textBoxManual.Text = resources.GetString("textBoxManual.Text");
+            textBoxManual.TextChanged += textBoxManual_TextChanged;
             // 
             // FormManual
             // 

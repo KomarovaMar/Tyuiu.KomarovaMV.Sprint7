@@ -36,6 +36,7 @@ namespace Project.V15
 
         private void buttonOpen_Click(object sender, EventArgs e)
         {
+            openFileDialogSprint.InitialDirectory = System.IO.Path.Combine(Application.StartupPath, @"Tyuiu.KomarovaMV.Sprint7\DataFile");
             openFileDialogSprint.ShowDialog();
             openFilePath = openFileDialogSprint.FileName;
 

@@ -16,5 +16,10 @@ namespace Project.V15
         {
             InitializeComponent();
         }
+
+        private void textBoxManual_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
